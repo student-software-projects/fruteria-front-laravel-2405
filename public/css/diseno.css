@@ -39,3 +39,72 @@ h1 {
     font-family: Tahoma;
     color:#ffffff;
 }
+
+
+
+nav{
+    background: #ffffff;
+
+}
+
+
+nav a{
+    position: relative;
+    right:-400px;
+    margin-left: 50px;
+    margin-right: 40px;
+    font-family: Tahoma;
+    background: #ffffff;
+    color: #0BD914;
+    width: 500px;
+    height: 50px;
+;
+
+}
+
+.mision{
+    font-family: Tahoma;
+    color: #ffffff;
+
+}
+
+
+.mision h2{
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.mision p{
+    font-size:30px;
+}
+
+.admin{
+    color:#ffffff;
+    font-family: Tahoma;
+    font-size: 20px;
+    text-align: center;
+}
+
+.domicilios h2 {
+    font-size: 45px;
+    text-align: center;
+    color:#ffffff;
+    font-family: Tahoma;
+}
+
+.domicilios h3 {
+    font-size: 35px;
+    text-align: center;
+    color:#ffffff;
+    font-family: Tahoma;
+}
+
+
+.domicilios p{
+    font-size: 20px;
+    text-align: center;
+    color:#ffffff;
+    font-family: Tahoma;
+
+}

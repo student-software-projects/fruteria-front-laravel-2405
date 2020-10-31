@@ -13,9 +13,9 @@ public  function  index(){
 }
 
 
-    public  function  servicios(){
+    public  function  domicilios(){
 
-        return view('pagina.servicios');
+        return view('pagina.domicilios');
     }
 
 

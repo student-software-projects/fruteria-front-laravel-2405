@@ -21,4 +21,4 @@ Route::get('/', function () {
 Route::get('/pagina/index',[pagina::class,'index'])->name('pagina.index');
 Route::get('/pagina/acercade',[pagina::class,'acercade'])->name('pagina.acercade');
 Route::get('/pagina/contacto',[pagina::class,'contacto'])->name('pagina.contacto');
-Route::get('/pagina/servicios',[pagina::class,'servicios'])->name('pagina.servicios');
+Route::get('/pagina/domicilios',[pagina::class,'domicilios'])->name('pagina.domicilios');
