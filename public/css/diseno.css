@@ -1,0 +1,41 @@
+
+
+body{
+    background: #0BD914;
+
+}
+
+
+h1 {
+    font-family: tahoma;
+    text-align: center;
+    font-size: 55px;
+    color:#ffffff;
+
+}
+
+.frutas-inicio{
+    width: 1250px;
+    height:1800px;
+
+}
+
+.frutas-inicio h3{
+    font-size: 30px;
+    text-align: center;
+    color:#ffffff;
+    font-family: Tahoma;
+}
+.frutas-inicio img{
+    width: 400px;
+    height:300px;
+    position: relative;
+    right:-450px;
+
+}
+
+.frutas-inicio p{
+    text-align: center;
+    font-family: Tahoma;
+    color:#ffffff;
+}
